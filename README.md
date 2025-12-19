@@ -4,8 +4,8 @@
 Yazılım aleminde yeniyim. Şu an temel programlama mantığı ve problem çözme yeteneklerimi geliştirmeye odaklanmış durumdayım.
 
 ### Nelerle ilgileniyorum?
-**Python:** Henüz Python dilini öğrenme aşamasındayım.
-**Algoritma ve Mantık:** Karmaşık problemleri basit adımlara bölmeyi ve verimli kod yazmayı öğreniyorum.
+* **Python:** Henüz Python dilini öğrenme aşamasındayım.
+* **Algoritma ve Mantık:** Karmaşık problemleri basit adımlara bölmeyi ve verimli kod yazmayı öğreniyorum.
 
 ### Hedeflerim
 * Temel programlama kavramlarını tamamen içselleştirerek profesyonel projelere hazırlık yapmak.
