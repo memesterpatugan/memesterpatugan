@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, ben Batuhan Eryüz.
 
-<!--
-**memesterpatugan/memesterpatugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ege Üniversitesi - Bilgisayar Programcılığı 1. Sınıf Öğrencisi
+Yazılım aleminde yeniyim. Şu an temel programlama mantığı ve problem çözme yeteneklerimi geliştirmeye odaklanmış durumdayım.
 
-Here are some ideas to get you started:
+### Nelerle ilgileniyorum?
+**Python:** Henüz Python dilini öğrenme aşamasındayım.
+**Algoritma ve Mantık:** Karmaşık problemleri basit adımlara bölmeyi ve verimli kod yazmayı öğreniyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hedeflerim
+* Temel programlama kavramlarını tamamen içselleştirerek profesyonel projelere hazırlık yapmak.
+* Python dilinde yetkinlik kazanmak.
+* Python'daki yetkinliğimi artırdıktan sonra teknik bilgi hazneme C# dilini de eklemek istiyorum.
+
+### Bana Ulaşın
+* www.linkedin.com/in/batuhan-eryüz-3421293a1
+* memesterpatugan@gmail.com
