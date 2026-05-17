@@ -10,7 +10,7 @@ Yazılım öğrenirken işin kolayına kaçmadan, algoritmaların temel mantığ
 
 ### Hedeflerim
 - C# dilinde yetkinliğimi artırarak sağlam ve sürdürülebilir projeler üretmek.
-- 1. sınıfın sonundaki yaz döneminde bir staj programına dahil olarak kurumsal iş süreçlerini ve takım çalışmasını deneyimlemek.
+- Birinci sınıfın sonundaki yaz döneminde bir staj programına dahil olarak kurumsal iş süreçlerini ve takım çalışmasını deneyimlemek.
 
 ### Bana Ulaşın
 * www.linkedin.com/in/batuhan-eryüz-3421293a1
